@@ -12,9 +12,9 @@
   * [Usage](#usage)
   * [Questions](#questions)
   ## Description: 
-  This is the back-end application of a social network application that allows users to create accounts, add thoughts, react to posts, and add friends.
+  This is the back-end of a social network application that allows users to create accounts, add thoughts, react to posts, and add friends.
   ## Installation
-  Clone from the following [GitHub Repository](git@github.com:Chrispruiz/NoSQL-Social-Network-API.git) 
+  Clone from the following [GitHub Repository](https://github.com/Chrispruiz/NoSQL-Social-Network-API.git) 
 
   Run the following code in the command line to run dependencies:
     
@@ -26,11 +26,7 @@
 
   ## Usage:
   Video Walkthrough: 
-  ## Contributers:
-  
-  ## Tests:
-  Run the following command to run tests:
-  
-  
+  [Part I](https://drive.google.com/file/d/1QshD1q8s91MWgndTjvwVF9i_cFWCxJ6J/view)
+  [Part II]()
   ## Questions:
   If you have any questions, please feel free to contact me at Chrispruiz@att.net. For more of my work, visit [Chrispruiz](https://github.com/Chrispruiz).
