@@ -27,8 +27,8 @@
   ## Usage:
   Video Walkthrough: 
 
-  [Part I](https://drive.google.com/file/d/1QshD1q8s91MWgndTjvwVF9i_cFWCxJ6J/view)
-  
-  [Part II](https://drive.google.com/file/d/1M2yNW-MTLc9K4tXMppPn8ky_zcrU1gbb/view)
+  [Part I](https://drive.google.com/file/d/1DRPUoDg8DwBg5SF_z_YAgeuOJMJO3Y4o/view)
+
+  [Part II](https://drive.google.com/file/d/1-rIqvINhMTMQ9r2KrY9VSK_sVbaiRbcO/view)
   ## Questions:
   If you have any questions, please feel free to contact me at Chrispruiz@att.net. For more of my work, visit [Chrispruiz](https://github.com/Chrispruiz).
